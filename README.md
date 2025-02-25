@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Waqar Sarwar
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Power bi, Advanced excel,vba, sfdc
+- 👀 I’m working as Full stack developer 
+- 🌱 I’m currently working in healthcare domain to develop the application which is used by US healthcare agency to optimize the remit amount insured by Insurance company in US
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
